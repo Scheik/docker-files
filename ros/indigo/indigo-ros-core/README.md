@@ -1,4 +1,4 @@
-##ROS Indigo ros-base on Ubuntu 14.04
+##ROS Indigo ros-core on Ubuntu trusty
 
 This docker container has a ros-base installation on a clean Ubuntu 14.04 installation.
 
