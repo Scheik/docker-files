@@ -1,6 +1,6 @@
 # This is a Dockerfile for ros:indigo-ros-core
 
-FROM ubuntu:trusty
+FROM ubuntu:14.04
 MAINTAINER Fabian Prinzing <scheik.todeswache@googlemail.com>
 
 # setup environment
