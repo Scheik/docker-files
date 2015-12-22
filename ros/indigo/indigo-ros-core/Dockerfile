@@ -4,8 +4,8 @@ FROM ubuntu:trusty
 MAINTAINER Fabian Prinzing <scheik.todeswache@googlemail.com>
 
 # setup environment
-RUN locale-gen en_US.UTF-8
-ENV LANG en_US.UTF-8
+RUN locale-gen de_DE.UTF-8
+ENV LANG de_DE.UTF-8
 
 # setup keys
 RUN apt-key adv --keyserver ha.pool.sks-keyservers.net --recv-keys 421C365BD9FF1F717815A3895523BAEEB01FA116
